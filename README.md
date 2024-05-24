@@ -1,4 +1,4 @@
-### Hi there, 
+## Hi there, 
 ### I am Louis a React / Vue developer 👋
 - 🔭 I’m currently working on a React Native app for LeHibou
 - ⚡ Fun fact: I love to create bash script for everything
