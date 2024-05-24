@@ -1,6 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on a social flutter app named Fevly
-- 🌱 I’m currently learning game dev on Python & flutter / dart dev and app design
+### Hi there, I am Louis a React / Vue developer 👋
+- 🔭 I’m currently working on a React Native app for LeHibou.
 - ⚡ Fun fact: I love to create bash script for everything
 <!--
 **Louisp78/Louisp78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
