@@ -1,7 +1,7 @@
 ### Hi there, 
-## I am Louis, a React/Vue developer 👋
+## I am Louis, a Software Engineer 👋
 - 🔭 I’m currently working on a React Native app for LeHibou
-- ⚡ Fun fact: I love to create bash script for everything
+- I am passionate about Marine Biology
 <!--
 **Louisp78/Louisp78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
