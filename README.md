@@ -1,7 +1,6 @@
 ### Hi there, 
 ## I am Louis, a Software Engineer 👋
-- 🔭 I’m currently working on a React Native app for LeHibou
-- 🐠 I am passionate about Marine Biology
+- 🐠 I am passionate about Oceanography
 <!--
 **Louisp78/Louisp78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
