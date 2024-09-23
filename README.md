@@ -1,6 +1,7 @@
 ### Hi there, 
 ## I am Louis, a Software Engineer 👋
 - 🐠 I am passionate about Oceanography
+- ⚡ I like to create fullstack apps
 <!--
 **Louisp78/Louisp78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
